@@ -6,11 +6,11 @@
       [우아한테크22] React Query와 상태관리 (2022.02.22)
     </a>
   </li> -->
-  <!-- <li>
+  <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH21%5D%20%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C.md">
       [SLASH21] 실무에서 적용하는 프론트엔드 클린코드 (2022.08.31)
     </a>
-  </li> -->
+  </li>
   <!-- <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BIfKakao21%5D%20%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4%20React%20Query%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%9C%20%EC%9D%B4%EC%9C%A0.md">
       [IfKakao21] 카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 (2022.09.07)
