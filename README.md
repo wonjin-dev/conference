@@ -16,11 +16,11 @@
       [IfKakao21] 카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 (2022.09.07)
     </a>
   </li> -->
-  <!-- <li>
+  <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BINFCON22%5D%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EC%A0%91%EA%B7%BC%20%EB%B0%A9%EB%B2%95%20-%20Pull%20Requests%20vs%20Stacked%20Changes.md">
       [INFCON22] 코드 리뷰의 또 다른 접근 방법 - Pull Requests vs Stacked Changes (2022.09.14)
     </a>
-  </li> -->
+  </li>
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH22%5D%20Effective%20Component%20%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%84%B1%EC%9E%A5%EA%B3%BC%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md">
       [SLASH22] Effective Component 지속 가능한 성장과 컴포넌트 (2022.09.21)
