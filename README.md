@@ -21,11 +21,11 @@
       [INFCON22] 코드 리뷰의 또 다른 접근 방법 - Pull Requests vs Stacked Changes (2022.09.14)
     </a>
   </li> -->
-  <!-- <li>
+  <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH22%5D%20Effective%20Component%20%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%84%B1%EC%9E%A5%EA%B3%BC%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md">
       [SLASH22] Effective Component 지속 가능한 성장과 컴포넌트 (2022.09.21)
     </a>
-  </li> -->
+  </li>
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH22%5D%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EC%8B%9C%EA%B0%84%EC%9D%84%20%EC%B0%BE%EC%95%84%EC%84%9C%20-%20%EB%A7%A4%EC%9D%BC%20%ED%95%98%EB%A3%A8%EB%A5%BC%20%EC%95%84%EB%81%BC%EB%8A%94%20Frontend%20DevOps%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md">
       [SLASH22] 잃어버린 개발자의 시간을 찾아서 - 매일 하루를 아끼는 Frontend DevOps 이야기 (2022.09.28)
