@@ -46,11 +46,11 @@
       [INFCON22] 성공하는 스터디를 만드는 10가지 방법 (2022.10.19)
     </a>
   </li>
-  <!-- <li>
+  <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BFECONF21%5D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%2C%20%EB%8B%A4%EC%8B%9C%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0.md">
       [FECONF21] 컴포넌트, 다시 생각하기 (2022.10.26)
     </a>
-  </li> -->
+  </li>
   <!-- <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BFORWARD21%5D%20%EA%B2%B0%EA%B5%AD%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%EB%A1%9C%20%ED%96%88%EB%8B%A4.md">
       [FORWARD21] 결국 자바스크립트를 알아보기로 했다 (2022.11.02)
