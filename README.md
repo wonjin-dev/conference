@@ -1,21 +1,14 @@
 # Retrospection after watching conference
 
 <ul>
-  <!-- <li>
-    <a href="https://github.com/wonjin-dev/conference/blob/master/%5B%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC22%5D%20React%20Query%EC%99%80%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">
-      [우아한테크22] React Query와 상태관리 (2022.02.22)
-    </a>
-  </li> -->
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH21%5D%20%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C.md">
       [SLASH21] 실무에서 적용하는 프론트엔드 클린코드 (2022.08.31)
     </a>
   </li>
-  <!-- <li>
-    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BIfKakao21%5D%20%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4%20React%20Query%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%9C%20%EC%9D%B4%EC%9C%A0.md">
-      [IfKakao21] 카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 (2022.09.07)
-    </a>
-  </li> -->
+  <li>
+    [IfKakao21] 카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 (2022.09.07)<br>&rarr; 단순히 React Query의 사용법을 소개하는 세미나로 새롭게 알게된 내용도 회고할만한 내용도 없었다
+  </li>
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BINFCON22%5D%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EC%A0%91%EA%B7%BC%20%EB%B0%A9%EB%B2%95%20-%20Pull%20Requests%20vs%20Stacked%20Changes.md">
       [INFCON22] 코드 리뷰의 또 다른 접근 방법 - Pull Requests vs Stacked Changes (2022.09.14)
@@ -36,11 +29,6 @@
       [SLASH21] 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기 (2022.10.05)
     </a>
   </li>
-  <!-- <li>
-    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BDEVIEW21%5D%20Inside%20React%20(%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%88%A0).md">
-      [DEVIEW21] Inside React (동시성을 구현하는 기술) (2022.10.12)
-    </a>
-  </li> -->
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BINFCON22%5D%20%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%8A%A4%ED%84%B0%EB%94%94%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%2010%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md">
       [INFCON22] 성공하는 스터디를 만드는 10가지 방법 (2022.10.19)
