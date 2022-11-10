@@ -44,8 +44,13 @@
       [FORWARD21] 결국 자바스크립트를 알아보기로 했다 (2022.11.02)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BSLASH22%5D%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EC%8B%9C%EA%B0%84%EC%9D%84%20%EC%B0%BE%EC%95%84%EC%84%9C%20-%20%EB%A7%A4%EC%9D%BC%20%ED%95%98%EB%A3%A8%EB%A5%BC%20%EC%95%84%EB%81%BC%EB%8A%94%20Frontend%20DevOps%20%EC%9D%B4%EC%95%BC%EA%B8%B0%202.md">    
+      [SLASH22] 잃어버린 개발자의 시간을 찾아서 - 매일 하루를 아끼는 Frontend DevOps 이야기 2 (2022. 11. 09)
+    </a>
+  </li>
   <!-- <li>
-    <a>
+    <a>    
     </a>
   </li> -->
 </ul>
