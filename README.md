@@ -49,6 +49,11 @@
       [SLASH22] 잃어버린 개발자의 시간을 찾아서 - 매일 하루를 아끼는 Frontend DevOps 이야기 2 (2022. 11. 09)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BFECONF22%5D%20내%20import문이%20그렇게%20이상했나요%3F.md">
+      [FECONF22] 내 import문이 그렇게 이상했나요? (2022. 11. 23)
+    </a>
+  </li>
   <!-- <li>
     <a>    
     </a>
