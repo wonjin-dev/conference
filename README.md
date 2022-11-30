@@ -54,6 +54,11 @@
       [FECONF22] 내 import문이 그렇게 이상했나요? (2022. 11. 23)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BINFCON22%5D%20%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%98%A4%EB%8A%98%EB%8F%84%20%EC%84%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4.md">
+      [INFCON22] 우리는 오늘도 성장합니다 (2022. 11. 30)
+    </a>
+  </li>
   <!-- <li>
     <a>    
     </a>
