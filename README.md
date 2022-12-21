@@ -69,4 +69,9 @@
       [FORWARD21] Lighthouse 성능 지표를 사용한 웹 애플리케이션 성능 측정 자동화 모듈 개발기 (2022. 12. 14)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/%5BWOOWACON21%5D%20%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EB%8A%94%20%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C%3F%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%8B%A4%EC%8B%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">
+      [WOOWACON21] 당신의 기술부채는 안녕하십니까? 프로젝트 다시 만들기 (2022. 12. 21)
+    </a>
+  </li>
 </ul>
