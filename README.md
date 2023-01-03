@@ -74,4 +74,9 @@
       [WOOWACON21] 당신의 기술부채는 안녕하십니까? 프로젝트 다시 만들기 (2022. 12. 21)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/[IFKAKAO22] Sentry를 이용한 에러 추적기, React의 선언적 에러 처리.md">
+      [IFKAKAO22] Sentry를 이용한 에러 추적기, React의 선언적 에러 처리 (2022. 12. 28)
+    </a>
+  </li>
 </ul>
