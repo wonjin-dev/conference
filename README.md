@@ -79,4 +79,9 @@
       [IFKAKAO22] Sentry를 이용한 에러 추적기, React의 선언적 에러 처리 (2022. 12. 28)
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/[INFCON22] 나의 팀을 성장시키는 리뷰들.md">
+      [INFCON22] 나의 팀을 성장시키는 리뷰들 (2023. 01. 04)
+    </a>
+  </li>
 </ul>
