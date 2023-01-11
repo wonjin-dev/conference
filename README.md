@@ -7,9 +7,6 @@
     </a>
   </li>
   <li>
-    [IfKakao21] 카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 (2022.09.07)<br>&rarr; 단순히 React Query의 사용법을 소개하는 세미나로 새롭게 알게된 내용도 회고할만한 내용도 없었다
-  </li>
-  <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/%5BINFCON22%5D%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EC%A0%91%EA%B7%BC%20%EB%B0%A9%EB%B2%95%20-%20Pull%20Requests%20vs%20Stacked%20Changes.md">
       [INFCON22] 코드 리뷰의 또 다른 접근 방법 - Pull Requests vs Stacked Changes (2022.09.14)
     </a>
@@ -82,6 +79,11 @@
   <li>
     <a href="https://github.com/wonjin-dev/conference/blob/master/[INFCON22] 나의 팀을 성장시키는 리뷰들.md">
       [INFCON22] 나의 팀을 성장시키는 리뷰들 (2023. 01. 04)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/conference/blob/master/[INFCON22] 팀을 넘어서 전사적 협업 환경 구축하기.md">
+      [INFCON22] 팀을 넘어서 전사적 협업 환경 구축하기 (2023. 01. 11)
     </a>
   </li>
 </ul>
